@@ -1,0 +1,82 @@
+{
+  "custom-layouts": [
+    {
+      "uuid": "{F2E84708-0976-44ED-9684-4CFBCE634498}",
+      "name": "Grid - Split",
+      "type": "canvas",
+      "info": {
+        "ref-width": 5120,
+        "ref-height": 1410,
+        "zones": [
+          {
+            "X": 0,
+            "Y": 0,
+            "width": 1280,
+            "height": 1410
+          },
+          {
+            "X": 0,
+            "Y": 0,
+            "width": 1280,
+            "height": 705
+          },
+          {
+            "X": 0,
+            "Y": 705,
+            "width": 1280,
+            "height": 705
+          },
+          {
+            "X": 1280,
+            "Y": 0,
+            "width": 2565,
+            "height": 1410
+          },
+          {
+            "X": 3840,
+            "Y": 0,
+            "width": 1280,
+            "height": 1410
+          },
+          {
+            "X": 0,
+            "Y": 0,
+            "width": 2560,
+            "height": 1410
+          },
+          {
+            "X": 2560,
+            "Y": 0,
+            "width": 2560,
+            "height": 1410
+          },
+          {
+            "X": 3840,
+            "Y": 0,
+            "width": 1280,
+            "height": 705
+          },
+          {
+            "X": 3840,
+            "Y": 705,
+            "width": 1280,
+            "height": 705
+          },
+          {
+            "X": 1280,
+            "Y": 0,
+            "width": 1920,
+            "height": 1410
+          },
+          {
+            "X": 3200,
+            "Y": 0,
+            "width": 1920,
+            "height": 1410
+          }
+        ],
+        "sensitivity-radius": 20
+      }
+    }
+  ]
+}
